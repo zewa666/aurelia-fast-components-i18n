@@ -1,0 +1,10 @@
+<template>
+  <h1>${message}</h1>
+
+  
+  <fast-design-system-provider use-defaults>
+    <fast-button appearance="outline" click.trigger="foo()">${visible ? "Hide" : "Show"}</fast-button><br />
+    <fast-text-area if.bind="visible" t="[placeholder]foo">
+    </fast-text-area>
+  </fast-design-system-provider>
+</template>
