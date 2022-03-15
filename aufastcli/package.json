@@ -16,7 +16,7 @@
     "aurelia-i18n": "^3.1.0",
     "bluebird": "^3.5.2",
     "i18next-xhr-backend": "^3.2.2",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "requirejs": "^2.3.6",
     "text": "github:requirejs/text#latest"
   },
